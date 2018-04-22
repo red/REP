@@ -1,39 +1,39 @@
 == REP XXXX - \<Title of the proposal\>
 |===
-|REP:
-|<Leave Blank>
+|REP:|<Leave Blank>
 
-|Title:
-|<The Title of the proposal>
+|Title:|<The Title of the proposal>
 
-|Author(s):
-|<The real name of the author(s)>
+|Author(s):|<The real name of the author(s)>
 
-|Status:
-|Draft
+|Status:|Draft
 
-|Date Created:
-|<Leave blank>
+|Date Created:|<Leave blank>
 
-|Date Last Actioned
-|<Leave blank>
+|Date Last Actioned|<Leave blank>
 
 |===
 
 ===Summary
+
 <A brief summary of the enhancement and the proposal.>
      
 ===Description
+
 <A clear, concise description of the change/addition to Red that is being requested.>
 
 ===Use Case
+
 <An example or examples of how the change/addition would be used if it was implemented.>
 
 ===Benefits
+
 <An extensive explanation of all the benefits to the Red project supported by the rationale behind each benefit.>
 
 ===Consequences
+
 <Every enhancement, no matter how beneficial, will have some consequences that will need to be addressed. These range from requiring changes to existing documentation through to breaking all previous code (and probably beyond).>
 
 ===Assistance
+
 <Details of any assistance the proposer(s) is willing to give to implement the change/addition. This could be in the form of code, written tests, documentation or a donation.>
