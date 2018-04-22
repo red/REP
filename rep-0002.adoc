@@ -1,5 +1,7 @@
-== REP XXXX - \<Title of the proposal\>
-|=======
+== REP XXXX - <Title of the proposal>
+
+[]
+|==
 |REP:|<Leave Blank>
 
 |Title:|<The Title of the proposal>
@@ -12,7 +14,7 @@
 
 |Date Last Actioned|<Leave blank>
 
-|=======
+|==
 
 === Summary
 
