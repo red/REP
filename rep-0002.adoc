@@ -1,20 +1,14 @@
 == REP XXXX - <Title of the proposal>
 
-[]
-|==
+[width="100%"]
+|============================================
 |REP:|<Leave Blank>
-
 |Title:|<The Title of the proposal>
-
 |Author(s):|<The real name of the author(s)>
-
 |Status:|Draft
-
 |Date Created:|<Leave blank>
-
 |Date Last Actioned|<Leave blank>
-
-|==
+|============================================
 
 === Summary
 
