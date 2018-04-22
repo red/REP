@@ -2,7 +2,7 @@
 This the home of the Red Enhancement Process (REP). The first proposal, [REP 0](https://github.com/red/REP/blob/master/rep-0000.adoc), is an [index](https://github.com/red/REP/blob/master/rep-0000.adoc) of all the proposals. The second proposal, [REP 1](https://github.com/red/REP/blob/master/rep-0001.adoc), explains the process itself.
 
 ## Wishes
-In addition to provding a home for REPS, this repository is the place to make 'wishes' for features to be added, changed or removed from Red. Wishes should be raised as issues in this repository (not the red source repository).
+In addition to provding a home for REPs, this repository is the place to make 'wishes' for features to be added, changed or removed from Red. Wishes should be raised as issues in this repository (not the red source repository).
 
 Wishes will be reviewed using a triage process, the three outcomes being:
 #### Wish granted
