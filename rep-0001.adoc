@@ -1,3 +1,15 @@
+== REP 1 - The Red Enhancement Process
+
+[width="100%"]
+|============================================
+|REP:|1
+|Title:|The Red Enhancement Process
+|Author:|Peter W A Wood
+|Status:|Permanent
+|Date Created:|22-Apr-2018
+|Date Last Actioned|22-Apr-2018
+|============================================
+
 == Introduction
 Although Red is still in the alpha phase of its bootstrap release and far from complete, there are a growing number of requests for additional features and functionality. This process has been put in place to guide people who are requesting additions or changes to Red how to get them properly considered and possibly accepted.
 
