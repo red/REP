@@ -20,17 +20,17 @@
 |Author
 |Status
 
-|1
+|https://github.com/red/REP/blob/master/rep-0001.adoc[1]
 |The Red Enhancement Process
 |Peter W A Wood
 |Accepted
 
-|2
+|https://github.com/red/REP/blob/master/rep-0002.adoc[2]
 |REP Template
 |Peter W A Wood
 |Accepted
 
-|101
+|https://github.com/red/REP/blob/master/rep-0101.adoc[101]
 |For Loop Function
 |Gregg Irwin
 |Submitted
