@@ -12,7 +12,7 @@
 
 
 == Summary
-A general purpose `for` loop is useful and well known https://en.wikipedia.org/wiki/For_loop[WikiPedia For Loop]. It makes sense to include one in Red, even if there are specific, optimized loop constructs that handle subsets of its functionality.
+A general purpose `for` loop is useful and well known (https://en.wikipedia.org/wiki/For_loop[WikiPedia For Loop]). It makes sense to include one in Red, even if there are specific, optimized loop constructs that handle subsets of its functionality.
      
 == Description
 http://www.rebol.com/r3/docs/guide/code-loops.html shows that Rebol has a number of loop constructs, which Red has inherited. Rebol also has a `for` function, but its use was discouraged under R2, mainly for performance reasons. It also suffered due to the large-ish number of args which were not optional or named. More importantly, it could end up in an infinite loop and the cycle test behavior was not always clear. There was extensive discussion on CureCode about how to address these issues: http://issue.cc/r3/1993
