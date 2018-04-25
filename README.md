@@ -6,7 +6,7 @@ In addition to provding a home for REPs, this repository is the place to make 'w
 
 Wishes will be reviewed using a triage process, the three outcomes being:
 #### Wish granted
-The issue will be closed. A new issue will be opened on the red source repo with a type of wish task.
+The issue will be closed. A new issue will be opened on the red source repo with a type.task.wish label to track the implementation of the wish.
 #### Wish denied
 The issue will be closed and no further action will be taken.
 #### REP required
