@@ -1,0 +1,41 @@
+﻿= REP 0102 - Formal Function Spec Definition
+
+[width="100%"]
+|============================================
+|REP:|102
+|Title:|Formal Function Spec Definition
+|Author:|Rudolf Meijer, Gregg Irwin
+|Status:|Submitted
+|Date Created:|10-Jul-2018
+|Date Last Actioned|10-Jul-2018
+|============================================
+
+
+== Summary
+
+Red's function specification is not formally defined, and it's not clear from
+the code what are planned features. There are also differences in how compiler
+and interpreter behavior. The `help` function also has its own func spec 
+parser.
+
+Red/System functions and routines are not covered here.
+
+== References
+
+- https://github.com/red/REP/issues/24
+- https://github.com/red/red/blob/master/runtime/datatypes/function.reds#L742 (`validate`)
+- https://github.com/red/red/blob/master/environment/console/help.red#L217 (`func-spec-ctx`)
+
+     
+== Description
+
+
+== Use Cases
+
+
+
+== Benefits
+
+
+== Consequences
+
