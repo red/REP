@@ -7,7 +7,7 @@
 |Author:|Peter W A Wood
 |Status:|Permanent
 |Date Created:|22-Apr-2018
-|Date Last Actioned|22-Apr-2018
+|Date Last Actioned|1-Aug-2018
 |============================================
 
 == REP Index
@@ -28,12 +28,12 @@
 |https://github.com/red/REP/blob/master/REPs/rep-0002.adoc[2]
 |REP Template
 |Peter W A Wood
-|Incomplete Draft
+|Accepted
 
 |https://github.com/red/REP/blob/master/REPs/rep-0003.adoc[3]
 |Red Documentation
 |Peter W A Wood
-|Draft
+|Incomplete Draft
 
 |https://github.com/red/REP/blob/master/REPs/rep-0101.adoc[101]
 |For Loop Function
