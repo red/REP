@@ -11,3 +11,89 @@
 |============================================
 
 == Introduction
+The Red Foundation develops and maintains four types of documents for Red.
+
+=== Specifications
+These are formal specifications of the Red language and its major dialects. The relevant syntax will be formally documented using Backus-Naur Form (BNF) notation. The semantics will be concisely described using a formal style. 
+
+These documents are targeted at language implementors.
+
+=== References
+These are reference documents that provide detailed information on the content of Red and its major dialects. They provide minimal explanation on usage and few examples.
+
+These documents are targeted at experienced programmers familiar with Red (or similar languages). The [Lua Reference Manual](https://www.lua.org/manual/5.3/) and the [Python Reference Manual](https://docs.python.org/3/reference/index.html) provide similar levels of detail. (Though both also incude elements of formal language specification in addition to their reference information.)
+
+=== User Guides
+These are fuller explanations of Red and its major dialects including more detailed examples.
+
+These documents are targeted mainly to programmers new to Red. The [Rebol/Core User Manual](http://www.rebol.com/docs/core23/rebolcore.html) and [Programming in Lua](https://www.lua.org/pil/contents.html) provide similar levels of detail.
+
+
+
+== Red Documentation
+[cols="2,4*"]
+|===
+
+|
+|Specification
+|Reference
+|User Guide
+|Tutorial
+
+|Red Language
+|✔️
+|✔️footnote:[includes libRed API & RedBin]
+|❎
+|❎
+
+|Red Compiler
+|❎
+|✔️
+|❎
+|❎
+
+|Red Runtimefootnote:[including interpreter]
+|❎
+|✔️
+|❎
+|❎
+
+|Red Console
+|❎
+|✔️
+|❎️
+|❎️️
+
+|Red Core, Console & Toolchainfootnote:[The Red User Guide]
+|❎
+|❎
+|✔️footnote:[includes Parse]
+|✔️footnote:[excludes Parse]
+
+|Red GUIfootnote:[includes View, VID and Draw]
+|?
+|✅
+|✔️
+|✔️️
+
+|Parse
+|✔
+|✔️
+|❎
+|✔️️
+
+|Red/System Language
+|✅footnote:[An updated BNF Grammar]
+|✅footnote:[The current specification]
+|?
+|?
+
+|Red/C3
+|✔
+|✔
+|✔
+|✔
+
+|===
+
+✅  = Written : ✔️ = Is being/will be written : ?  = Undecided : ❎  = Not required
