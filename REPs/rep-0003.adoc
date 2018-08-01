@@ -28,9 +28,14 @@ These are fuller explanations of Red and its major dialects including more detai
 
 These documents are targeted mainly to programmers new to Red. The [Rebol/Core User Manual](http://www.rebol.com/docs/core23/rebolcore.html) and [Programming in Lua](https://www.lua.org/pil/contents.html) provide similar levels of detail.
 
+=== Tutorials
+These are basic Red programming tutorials. 
 
+They are aimed at people with no prior programming experience.  
 
 == Red Documentation
+The following documents will be published by the Red Foundation.
+
 [cols="2,4*"]
 |===
 
