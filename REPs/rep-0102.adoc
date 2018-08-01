@@ -5,7 +5,7 @@
 |REP:|102
 |Title:|Formal Function Spec Definition
 |Author:|Rudolf Meijer, Gregg Irwin
-|Status:|Submitted
+|Status:|Incomplete Draft
 |Date Created:|10-Jul-2018
 |Date Last Actioned|10-Jul-2018
 |============================================

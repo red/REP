@@ -1,0 +1,13 @@
+== REP 3 - Red Documentation
+
+[width="100%"]
+|============================================
+|REP:|3
+|Title:|The Red Enhancement Process
+|Author:|Peter W A Wood
+|Status:|Incomplete Draft
+|Date Created:|1-Aug-2018
+|Date Last Actioned|1-Aug-2018
+|============================================
+
+== Introduction

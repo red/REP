@@ -5,7 +5,7 @@
 |REP:|0
 |Title:|The Red Enhancement Process Index
 |Author:|Peter W A Wood
-|Status:|Accepted
+|Status:|Permanent
 |Date Created:|22-Apr-2018
 |Date Last Actioned|22-Apr-2018
 |============================================
@@ -28,11 +28,21 @@
 |https://github.com/red/REP/blob/master/REPs/rep-0002.adoc[2]
 |REP Template
 |Peter W A Wood
-|Accepted
+|Incomplete Draft
+
+|https://github.com/red/REP/blob/master/REPs/rep-0003.adoc[3]
+|Red Documentation
+|Peter W A Wood
+|Draft
 
 |https://github.com/red/REP/blob/master/REPs/rep-0101.adoc[101]
 |For Loop Function
 |Gregg Irwin
 |Submitted
+
+|https://github.com/red/REP/blob/master/REPs/rep-0102.adoc[102]
+|Formal Function Spec Definition
+|Rudolf Meijer, Gregg Irwin
+|Incomplete Draft
 
 |============================================
