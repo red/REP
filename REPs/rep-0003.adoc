@@ -21,12 +21,12 @@ These documents are targeted at language implementors.
 === References
 These are reference documents that provide detailed information on the content of Red and its major dialects. They provide minimal explanation on usage and few examples.
 
-These documents are targeted at experienced programmers familiar with Red (or similar languages). The [Lua Reference Manual](https://www.lua.org/manual/5.3/) and the [Python Reference Manual](https://docs.python.org/3/reference/index.html) provide similar levels of detail. (Though both also incude elements of formal language specification in addition to their reference information.)
+These documents are targeted at experienced programmers familiar with Red (or similar languages). The https://www.lua.org/manual/5.3/[Lua Reference Manual] and the https://docs.python.org/3/reference/index.html[Python Reference Manual] provide similar levels of detail. (Though both also incude elements of formal language specification in addition to their reference information.)
 
 === User Guides
 These are fuller explanations of Red and its major dialects including more detailed examples.
 
-These documents are targeted mainly to programmers new to Red. The [Rebol/Core User Manual](http://www.rebol.com/docs/core23/rebolcore.html) and [Programming in Lua](https://www.lua.org/pil/contents.html) provide similar levels of detail.
+These documents are targeted mainly to programmers new to Red. The http://www.rebol.com/docs/core23/rebolcore.html[Rebol/Core User Manual] and https://www.lua.org/pil/contents.html[Programming in Lua] provide similar levels of detail.
 
 === Tutorials
 These are basic Red programming tutorials. 
