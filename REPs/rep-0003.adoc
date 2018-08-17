@@ -3,7 +3,7 @@
 [width="100%"]
 |============================================
 |REP:|3
-|Title:|The Red Enhancement Process
+|Title:|Red Documentation
 |Author:|Peter W A Wood
 |Status:|Incomplete Draft
 |Date Created:|1-Aug-2018
