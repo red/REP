@@ -5,9 +5,9 @@
 |REP:|3
 |Title:|Red Documentation
 |Author:|Peter W A Wood
-|Status:|Incomplete Draft
+|Status:|Draft
 |Date Created:|1-Aug-2018
-|Date Last Actioned|1-Aug-2018
+|Date Last Actioned|11-Sep-2018
 |============================================
 
 == Introduction
@@ -31,7 +31,7 @@ These documents are targeted mainly to programmers new to Red. The http://www.re
 === Tutorials
 These are basic Red programming tutorials. 
 
-They are aimed at people with no prior programming experience.  
+They are aimed at people new to a programming domain or specific feature.  
 
 == Red Documentation
 The following documents will be published by the Red Foundation.
