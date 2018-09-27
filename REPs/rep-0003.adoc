@@ -5,9 +5,9 @@
 |REP:|3
 |Title:|Red Documentation
 |Author:|Peter W A Wood
-|Status:|Draft
+|Status:|Permanent
 |Date Created:|1-Aug-2018
-|Date Last Actioned|11-Sep-2018
+|Date Last Actioned|28-Sep-2018
 |============================================
 
 == Introduction
