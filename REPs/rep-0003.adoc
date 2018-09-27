@@ -46,59 +46,58 @@ The following documents will be published by the Red Foundation.
 |Tutorial
 
 |Red Language
-|✔️
-|✔️footnote:[includes libRed API & RedBin]
-|❎
-|❎
+|Not Yet Written
+|Not Yet Writtenfootnote:[includes libRed API & RedBin]
+|Not Provided
+|Not Provided
 
 |Red Compiler
-|❎
-|✔️
-|❎
-|❎
+|Not Provided
+|Not Yet Written
+|Not Provided
+|Not Provided
 
 |Red Runtimefootnote:[including interpreter]
-|❎
-|✔️
-|❎
-|❎
+|Not Provided
+|Not Yet Written
+|Not Provided
+|Not Provided
 
 |Red Console
-|❎
-|✔️
-|❎️
-|❎️️
+|Not Provided
+|Not Yet Written
+|Not Provided
+|Not Provided
 
 |Red Core, Console & Toolchainfootnote:[The Red User Guide]
-|❎
-|❎
-|✔️footnote:[includes Parse]
-|✔️footnote:[excludes Parse]
+|Not Provided
+|Not Provided
+|Not Yet Writtenfootnote:[includes Parse]
+|Not Yet Writtenfootnote:[excludes Parse]
 
 |Red GUIfootnote:[includes View, VID and Draw]
-|?
-|✅
-|✔️
-|✔️️
+|Not Yet Written
+|Written
+|Not Yet Written
+|Not Yet Written
 
 |Parse
-|✔
-|✔️
-|❎
-|✔️️
+|Not Yet Written
+|Not Yet Written
+|Not Provided
+|Not Yet Written
 
 |Red/System Language
-|✅footnote:[An updated BNF Grammar]
-|✅footnote:[The current specification]
-|?
-|?
+|Writtenfootnote:[An updated BNF Grammar]
+|Writtenfootnote:[The current specification]
+|Not Provided
+|Not Provided
 
 |Red/C3
-|✔
-|✔
-|✔
-|✔
+|Not Yet Written
+|Not Yet Written
+|Not Yet Written
+|Not Yet Written
 
 |===
 
-✅  = Written : ✔️ = Is being/will be written : ?  = Undecided : ❎  = Not required
