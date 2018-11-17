@@ -18,20 +18,55 @@ These are formal specifications of the Red language and its major dialects. The 
 
 These documents are targeted at language implementors.
 
+////
+Rudolf Meijer's spec is the current incarnation of this (https://github.com/meijeru/red.specs-public/blob/master/specs.adoc).
+
+It should either be approved as the baseline, or a specific list of change requests made so it can be. This may have to come after a Style Guide is developed, but informal comments can be made in the meantime.
+
+The home for this doc will be spec.red-lang.org
+
+--Gregg
+////
+
+
 === References
 These are reference documents that provide detailed information on the content of Red and its major dialects. They provide minimal explanation on usage and few examples.
 
 These documents are targeted at experienced programmers familiar with Red (or similar languages). The https://www.lua.org/manual/5.3/[Lua Reference Manual] and the https://docs.python.org/3/reference/index.html[Python Reference Manual] provide similar levels of detail. (Though both also incude elements of formal language specification in addition to their reference information.)
+
+////
+doc.red-lang.org is the current incarnation of this set of documents.
+
+It should either be approved as the baseline, or a specific list of change requests made so it can be. This may have to come after a Style Guide is developed, but informal comments can be made in the meantime.
+
+The home for this doc will be doc.red-lang.org
+
+--Gregg
+////
 
 === User Guides
 These are fuller explanations of Red and its major dialects including more detailed examples.
 
 These documents are targeted mainly to programmers new to Red. The http://www.rebol.com/docs/core23/rebolcore.html[Rebol/Core User Manual] and https://www.lua.org/pil/contents.html[Programming in Lua] provide similar levels of detail.
 
+////
+The REBOL Core Guide is the closest model we have for this, but we don't, and likely won't, get permission to clone it.
+
+Some years ago, I started comparing models (6 or so) of various lang books, with basic scripting over MD files. Easy to experiment, or find an authoring tool. The main thing is that this needs a single author, or strong leader with 1 or 2 support people. 
+
+--Gregg
+////
+
 === Tutorials
 These are basic Red programming tutorials. 
 
 They are aimed at people new to a programming domain or specific feature.  
+
+////
+Do we include How-To/Cookbook docs under this banner?
+
+--Gregg
+////
 
 == Red Documentation
 The following documents will be published by the Red Foundation.
