@@ -28,6 +28,11 @@ The home for this doc will be spec.red-lang.org
 --Gregg
 ////
 
+////
+I do not agree that Rudolf Meijer's spec is anything like a formal language specification. It is a decription of the features of the red executable and is much more like a reference document than a language specification. Rudolf has said the same himself in one of the chat systems.
+
+Peter
+////
 
 === References
 These are reference documents that provide detailed information on the content of Red and its major dialects. They provide minimal explanation on usage and few examples.
@@ -42,6 +47,12 @@ It should either be approved as the baseline, or a specific list of change reque
 The home for this doc will be doc.red-lang.org
 
 --Gregg
+////
+
+//// 
+doc.red-lang contains multiple self-contianed documents that may, or may not, be included in Red's reference manual. The View/VID/Draw documents could easliy be consolidated as the basis of the Red/GUI reference manual. The pre-processot document can be included in the compiler and runtime reference manuals. The other material needs to be incorporated into a Red reference manual.
+
+Peter
 ////
 
 === User Guides
