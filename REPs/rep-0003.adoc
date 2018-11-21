@@ -54,7 +54,7 @@ The home for this doc will be doc.red-lang.org
 
 [quote]
 ""
-doc.red-lang contains multiple documents (some of which are slef-contained) that may, or may not, be included in Red's reference manual.The View/VID/Draw documents could easliy be consolidated as the basis of the Red/GUI reference manual. The pre-processor document can be included in the compiler and runtime reference manuals. The other material needs to be incorporated into a Red reference manual.
+doc.red-lang contains multiple documents (some of which are self-contained) that may, or may not, be included in Red's reference manual.The View/VID/Draw documents could easliy be consolidated as the basis of the Red/GUI reference manual. The pre-processor document can be included in the compiler and runtime reference manuals. The other material needs to be incorporated into a Red reference manual.
 
 Peter
 ""
@@ -78,7 +78,8 @@ These are basic Red programming tutorials.
 
 They are aimed at people new to a programming domain or specific feature.  
 
-[sidebar]****
+[quote]
+==
 Do we include How-To/Cookbook docs under this banner?
 
 --Gregg
