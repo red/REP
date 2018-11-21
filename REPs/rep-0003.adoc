@@ -79,7 +79,7 @@ These are basic Red programming tutorials.
 They are aimed at people new to a programming domain or specific feature.  
 
 [quote]
-==
+""
 Do we include How-To/Cookbook docs under this banner?
 
 --Gregg
