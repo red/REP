@@ -1,6 +1,9 @@
 # Red Enhancement Process
 This the home of the Red Enhancement Process (REP). The first proposal, [REP 0](https://github.com/red/REP/blob/master/REPs/rep-0000.adoc), is an [index](https://github.com/red/REP/blob/master/REPs/rep-0000.adoc) of all the proposals. The second proposal, [REP 1](https://github.com/red/REP/blob/master/REPs/rep-0001.adoc), explains the process itself.
 
+## Commenting on Current REPs
+If you wish to make a comment on an approved REP, open an issue and refer to the REP in it.
+
 ## Wishes
 In addition to provding a home for REPs, this repository is the place to make 'wishes' for features to be added, changed or removed from Red. Wishes should be raised as issues in this repository (not the red source repository).
 
