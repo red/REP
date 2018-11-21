@@ -30,7 +30,7 @@ There are five stages in the Red proposal process, namely:
 * Stage 5 - Proposal Implemented
 
 === Stage 1 - Proposal Development
-Anyone requesting a change or audition to Red should prepare a draft proposal in AsciiDoc format. The file name of the proposal should be in the form `rep-<initials>-<yyyy-mm-dd>.adoc`. The proposal should follow the REP 2 which defines the proposal format. There should be a separate proposal for each change or addition requested. 
+Anyone requesting a change or audition to Red or an existing REP should prepare a draft proposal in AsciiDoc format. The file name of the proposal should be in the form `rep-<initials>-<yyyy-mm-dd>.adoc`. The proposal should follow the REP 2 which defines the proposal format. There should be a separate proposal for each change or addition requested. 
 
 The proposal should include the following information:
 
