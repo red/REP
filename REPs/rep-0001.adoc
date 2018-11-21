@@ -33,14 +33,19 @@ There are five stages in the Red proposal process, namely:
 Anyone requesting a change or audition to Red should prepare a draft proposal in AsciiDoc format. The file name of the proposal should be in the form `rep-<initials>-<yyyy-mm-dd>.adoc`. The proposal should follow the REP 2 which defines the proposal format. There should be a separate proposal for each change or addition requested. 
 
 The proposal should include the following information:
+
 ==== Description
 A clear, concise description of the change/addition to Red that is being requested.
+
 ==== Use Case
 An example or examples of how the change/addition would be used if it was implemented.
+
 ==== Benefits
 An extensive explanation of all the benefits to the Red project supported by the rationale behind each benefit.
+
 ==== Consequences
 Every enhancement, no matter how beneficial, will have some consequences that will need to be addressed. These range from requiring changes to existing documentation through to breaking all previous code (and probably beyond).
+
 ==== Assistance
 Details of any assistance the proposer(s) is willing to give to implement the change/addition. This could be in the form of code, written tests, documentation or a donation.
 
