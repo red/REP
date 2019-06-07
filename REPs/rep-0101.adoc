@@ -228,7 +228,7 @@ b: 5
 - Single starting point for looping, like `round` is for rounding
 - New users find a `for` function that should "just work"
 - Can't accidentally loop infinitely (though the C-like interface makes it possible)
-- See http://issue.cc/r3/1993 for details on the design goals
+- See https://www.curecode.org/rebol3/ticket.rsp?id=1993 for details on the design goals
 - Easy to support date!, time!, and money! values when those are available
 
 == Consequences
